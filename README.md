@@ -20,4 +20,4 @@ DevFest Glasgow 2024: "Google TensorFlow: Unleashing the Power of Tensors"
 - Model Evaluation: Evaluates the model's performance on the testing data.
 ## Screenshots
 
-![Results Graph](preds.img "Results:")
+![Results Graph](Preds.png "Results:")
